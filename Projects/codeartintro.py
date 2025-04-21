@@ -1,0 +1,21 @@
+#
+# Setup 
+import turtle 
+#
+
+t = turtle.Turtle()
+t.penup()
+t.goto(-100, -100)
+t.color("green")
+t.pendown()
+
+for i in range (6)
+    t.forward(60)
+    t.left(60)
+
+
+
+#
+# ENDING
+turtle.exitonclick ()
+#
