@@ -40,6 +40,7 @@ t4 = create_sprite("fox",x4,y4)
 # # Section 4 - Racing
 # # TODO - set how much each variable changes by and increase the number of repeats to at least 30
 # # TODO - explain here which sprites are faster or slower
+# I dont know wich one is faster and slower because they are all random
 for i in range(100):
     x1 += random.randint(1,6)
     x2 +=random.randint(1,6)
